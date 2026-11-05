@@ -1,2 +1,5 @@
 package com.example.pertemuan8mvvm.model
 
+data class Siswa(
+
+)
